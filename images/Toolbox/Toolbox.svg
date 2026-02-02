@@ -2,9 +2,9 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="76.710999"
-   height="16"
-   viewBox="0 0 76.710999 16"
+   width="478.05801"
+   height="100"
+   viewBox="0 0 478.05802 100"
    version="1.1"
    id="svg1"
    xml:space="preserve"
@@ -24,9 +24,9 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#505050"
      inkscape:document-units="px"
-     inkscape:zoom="11.313708"
-     inkscape:cx="21.080621"
-     inkscape:cy="6.7175144"
+     inkscape:zoom="1.4142136"
+     inkscape:cx="82.37794"
+     inkscape:cy="137.17872"
      inkscape:window-width="2560"
      inkscape:window-height="1417"
      inkscape:window-x="-8"
@@ -1295,7 +1295,7 @@
        x2="222.73801"
        y2="520.742" /></defs><g
      id="g7"
-     transform="matrix(0.04646449,0,0,0.04646449,18.649196,0)"
+     transform="matrix(0.28956336,0,0,0.28956336,116.22045,3.614488e-7)"
      style="stroke-width:21.5219"><path
        fill="#00599c"
        d="M 302.107,258.262 C 304.508,254.103 306,249.417 306,245.209 V 99.14 c 0,-4.208 -1.49,-8.893 -3.892,-13.052 L 153,172.175 Z"
@@ -1321,7 +1321,7 @@
        style="stroke-width:21.5219">
 	<polygon
    fill="#ffffff"
-   points="232.334,177.841 232.334,189.175 243.666,189.175 243.666,177.841 255,177.841 255,166.508 243.666,166.508 243.666,155.175 232.334,155.175 232.334,166.508 221,166.508 221,177.841 "
+   points="232.334,166.508 221,166.508 221,177.841 232.334,177.841 232.334,189.175 243.666,189.175 243.666,177.841 255,177.841 255,166.508 243.666,166.508 243.666,155.175 232.334,155.175 "
    id="polygon4"
    style="stroke-width:21.5219" />
 </g><g
@@ -1329,13 +1329,13 @@
        style="stroke-width:21.5219">
 	<polygon
    fill="#ffffff"
-   points="274.834,177.841 274.834,189.175 286.166,189.175 286.166,177.841 297.5,177.841 297.5,166.508 286.166,166.508 286.166,155.175 274.834,155.175 274.834,166.508 263.5,166.508 263.5,177.841 "
+   points="274.834,166.508 263.5,166.508 263.5,177.841 274.834,177.841 274.834,189.175 286.166,189.175 286.166,177.841 297.5,177.841 297.5,166.508 286.166,166.508 286.166,155.175 274.834,155.175 "
    id="polygon5"
    style="stroke-width:21.5219" />
 </g></g><g
      inkscape:label="Tux"
      id="g1212"
-     transform="matrix(0.05303032,0,0,0.05303032,36.068084,-0.99183485)"
+     transform="matrix(0.33048114,0,0,0.33048114,224.7737,-6.1810433)"
      style="stroke-width:18.8571"><g
        id="g463"
        inkscape:label="Body"
@@ -1738,7 +1738,7 @@
              style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:url(#linearGradient18830);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4.71427;marker:none;filter:url(#filter28584-4);enable-background:accumulate"
              transform="matrix(1.0956223,0,-0.17017853,1.5181314,-76.24447,-140.47964)" /></g></g></g></g><g
      id="g9"
-     transform="matrix(0.28570918,0,0,0.28570918,47.395093,-6.2857449)"><g
+     transform="matrix(1.7805191,0,0,1.7805191,295.36282,-39.172311)"><g
        style="display:inline"
        transform="matrix(0.1697,0,0,0.1697,17.758,17.758)"
        id="g10"><path
@@ -1799,7 +1799,7 @@
          style="display:inline;fill:none;stroke:#808000;stroke-width:12.686;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:20;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.501961;marker-start:none"
          id="path16" /></g></g><g
      id="g23"
-     transform="scale(0.04646449)"
+     transform="scale(0.28956336)"
      style="stroke-width:21.5219"><path
        fill="#00599c"
        d="M 302.107,258.262 C 304.508,254.103 306,249.417 306,245.209 V 99.14 c 0,-4.208 -1.49,-8.893 -3.892,-13.052 L 153,172.175 Z"
@@ -1825,7 +1825,7 @@
        style="stroke-width:21.5219">
 	<polygon
    fill="#ffffff"
-   points="232.334,189.175 243.666,189.175 243.666,177.841 255,177.841 255,166.508 243.666,166.508 243.666,155.175 232.334,155.175 232.334,166.508 221,166.508 221,177.841 232.334,177.841 "
+   points="221,166.508 221,177.841 232.334,177.841 232.334,189.175 243.666,189.175 243.666,177.841 255,177.841 255,166.508 243.666,166.508 243.666,155.175 232.334,155.175 232.334,166.508 "
    id="polygon20"
    style="stroke-width:21.5219" />
 </g><g
@@ -1833,13 +1833,13 @@
        style="stroke-width:21.5219">
 	<polygon
    fill="#ffffff"
-   points="274.834,189.175 286.166,189.175 286.166,177.841 297.5,177.841 297.5,166.508 286.166,166.508 286.166,155.175 274.834,155.175 274.834,166.508 263.5,166.508 263.5,177.841 274.834,177.841 "
+   points="263.5,166.508 263.5,177.841 274.834,177.841 274.834,189.175 286.166,189.175 286.166,177.841 297.5,177.841 297.5,166.508 286.166,166.508 286.166,155.175 274.834,155.175 274.834,166.508 "
    id="polygon21"
    style="stroke-width:21.5219" />
 </g></g><rect
      style="fill:#00599c;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:square;paint-order:stroke fill markers"
      id="rect10"
-     width="4.553535"
-     height="2.53125"
-     x="9.4837589"
-     y="6.7343755" /></svg>
+     width="28.377302"
+     height="15.774569"
+     x="59.1021"
+     y="41.968143" /></svg>
