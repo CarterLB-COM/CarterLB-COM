@@ -1,10 +1,7 @@
 <p align="center">
-  <img width="500" height="300" alt="image" src="https://github.com/user-attachments/assets/c9ae4a2e-0a83-44b4-b4e4-84a947a099b4" />
+  <img width="200" alt="image" src="https://github.com/user-attachments/assets/c9ae4a2e-0a83-44b4-b4e4-84a947a099b4" />
 </p>
 
-<p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/5/5c/Great_Seal_of_the_United_States_%28obverse%29.svg" width="20%" />
-</p>   
 
 <h1 align="center">Carter Bryan's Github</h1>
 <div align="center">
