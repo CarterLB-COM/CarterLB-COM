@@ -22,5 +22,5 @@ Most of these projects were just made for me and put here for easy access and an
 <h1 align="center">Toolbox:</h1>
 
 <p align="center">
-  <img width="738" height="100" alt="image" src="https://github.com/user-attachments/assets/22a78983-817c-4182-a2b6-7991558e13b5" />
+  <img width="738" height="100" alt="image" src="images/Toolbox/Toolbox.svg" />
 </p>
