@@ -7,9 +7,10 @@
 <div align="center">
 
 <h3>
-Most of these projects were just made for me and put here for easy access and anyone who needs it.
+Most of these projects were originally made for my own use, but I’m sharing them here for anyone who finds them helpful.  
+You’re free to use, modify, or build onto (unless stated otherwise), as long as you credit me and keep your work under the same license or terms.
 <br></br>
-  (I also don't have any other public social media.)
+  (I also don't have any other public social media. so if you went to contect me, <a href="https://github.com/CarterLB-COM/contect">use my contect repo</a>)
 </h3>
 
 </div>
