@@ -25,5 +25,5 @@ You’re free to use, modify, or build onto (unless stated otherwise), as long a
 </p>
 
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=CarterLB-COM)](https://github.com/CarterLB-COM/github-readme-stats)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=CarterLB-COM&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CarterLB-COM)](https://github.com/CarterLB-COM/github-readme-stats)
