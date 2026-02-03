@@ -8,7 +8,7 @@
 
 <h3>
 Most of these projects were originally made for my own use, but I’m sharing them here for anyone who finds them helpful.  
-You’re free to use, modify, or build onto (unless stated otherwise), as long as you credit me and keep your work under this same philosophy.
+You’re free to use, modify, or build onto my projects (unless stated otherwise), as long as you credit me and keep your work under this same philosophy.
 <br></br>
   (I also don't have any other public social media. so if you went to contect me, <a href="https://github.com/CarterLB-COM/contect">use my contect repo</a>)
 </h3>
