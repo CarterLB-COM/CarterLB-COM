@@ -10,7 +10,7 @@
 Most of these projects were originally made for my own use, but I’m sharing them here for anyone who finds them helpful.  
 You’re free to use, modify, or build onto my projects (unless stated otherwise), as long as you credit me and keep your work under this same philosophy.
 <br></br>
-  I also don't have any other public social media. <br> so if you went to contect me, <a href="https://github.com/CarterLB-COM/contect">use my contect repo</a>
+  I also don't have any other public social media. <br> so if you went to contect me, <a href="https://github.com/CarterLB-COM/contect/discussions">use my contect repo</a>
 </h3>
 
 
