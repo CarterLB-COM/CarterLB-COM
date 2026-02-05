@@ -19,12 +19,10 @@
   <br><sub>I don't have any public social media. <br> so if you went to contect me, <a href="https://github.com/CarterLB-COM/contect/discussions">use my contect repo</a></sub>
 </h1>
 
-<h1 align="center">Toolbox:
-  <br><sub>(What I primarily use)</sub>
-</h1>
-
-<p align="center">
+<h1 align="center">Toolbox: <br>
+  <br><sub><p align="center">
   <img width="738" height="100" alt="image" src="https://github.com/CarterLB-COM/CarterLB-COM/blob/8f3816c3bd05f8bffe9c3c61c3bacc79b77c6afd/images/Toolbox/Toolbox.svg" />
-</p>
+</p></sub>
+</h1>
 
 <h5>Most of these projects were originally made for my own use, <br> but I’m sharing them here for anyone who finds them helpful. <br></h5>
