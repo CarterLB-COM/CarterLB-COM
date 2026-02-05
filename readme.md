@@ -7,7 +7,7 @@
 
 <h1 align="center">
   18 year old American programmer. <br>
-  <sub>on & off programming for 3 years, and stop for 2, <br> so I'm relearning alot as I go. started learning C# and Unity at 12 or 13</sub>
+  <sub>on & off programming for (approx) 3 years, and stop for 2, <br> so I'm relearning alot as I go. started learning C# and Unity at 12 or 13</sub>
 </h1>
 <div align="center">
 
