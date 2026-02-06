@@ -8,7 +8,7 @@
   <sub>on & off programming for (approx) 3 years, and stop for 2, <br> so I'm relearning alot as I go. started learning C# and Unity at 12 or 13</sub>
 </h1>
 <p align="center">
-  <img alt="Static Badge" src="https://img.shields.io/badge/Status-Active-green">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Active-gray?labelColor=green">
 </p>
 
 <div align="center">
