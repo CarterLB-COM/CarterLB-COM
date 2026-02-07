@@ -3,14 +3,12 @@
   <img width="200" alt="image" src="https://github.com/CarterLB-COM/CarterLB-COM/blob/7ca8ed989ae5075705291f95869559589fa917a4/images/Arizona.svg" alt="Arizona state flag"/>
 </p>
 
-<h1 align="center">
-  American programmer. <br>
-  <sub>on & off programming for (approx) 3 years, and stop for 2, <br> so I'm relearning alot as I go. started learning C# and Unity at 12 or 13</sub>
-</h1>
 <p align="center">
   <img alt="Static Badge" src="https://img.shields.io/badge/Active-gray?labelColor=green">
   <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/CarterLB-COM?style=flat-square&logo=github&color=FF4500">
 </p>
+
+<hr>
 
 <div align="center">
 
