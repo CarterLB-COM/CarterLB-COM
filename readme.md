@@ -6,7 +6,7 @@
 <p align="center">
   <img alt="Static Badge" src="https://img.shields.io/badge/Active-gray?labelColor=green">
   <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/CarterLB-COM?style=flat&logo=github&color=FF4500"> <br>
-  <a href="https://x.com/CarterLBCOM"><img alt="Static Badge" src="https://img.shields.io/badge/X%20(CarterLBCOM)-black?logo=x&link=https%3A%2F%2Fx.com%2FCarterLBCOM"></a>
+  <a href="https://x.com/CarterLBCOM"><img alt="Static Badge" src="https://img.shields.io/badge/CarterLBCOM-black?logo=x&logoSize=20px"></a>
 </p>
 
 <hr>
