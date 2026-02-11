@@ -1,12 +1,7 @@
-<p align="center">
-  <img width="200" alt="image" src="https://github.com/CarterLB-COM/CarterLB-COM/blob/7ca8ed989ae5075705291f95869559589fa917a4/images/United%20States.svg" alt="United States flag"/>
-  <img width="200" alt="image" src="https://github.com/CarterLB-COM/CarterLB-COM/blob/7ca8ed989ae5075705291f95869559589fa917a4/images/Arizona.svg" alt="Arizona state flag"/>
-</p>
+![card](https://github.com/user-attachments/assets/f21b6ca3-5011-4126-a36f-1722b35eb163)
 
 <p align="center">
-  <img alt="Static Badge" src="https://img.shields.io/badge/Active-gray?labelColor=green">
-  <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/CarterLB-COM?style=flat&logo=github&color=FF4500"> <br>
-  <a href="https://x.com/CarterLBCOM"><img alt="Static Badge" src="https://img.shields.io/badge/CarterLBCOM-black?logo=x"></a>
+  <a href="https://x.com/CarterLBCOM"><img alt="Static Badge" src="https://img.shields.io/badge/CarterLB--COM-black?style=for-the-badge&logo=X"></a>
 </p>
 
 <hr>
